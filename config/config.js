@@ -2,7 +2,7 @@ const config = {
     app_name: 'XTY World',
     app_description: 'XTY World dApps',
     collection_file_name: 'collection.json',
-    collection_contract_address: '0x0e4fb5b3f960d1e33b7f9e324c1e44d94c887b98',
+    collection_contract_address: '0xBD6057c3CdbE5fc11Ce8168C7E291552F077dF57',
     collection_name: 'XTY World',
     collection_description: 'XTY World dApps',
     collection_id_from: 0,
