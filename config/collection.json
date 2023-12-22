@@ -33,14 +33,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #1",
@@ -76,14 +76,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #2",
@@ -120,13 +120,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #3",
@@ -162,14 +162,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #4",
@@ -205,14 +205,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #5",
@@ -248,14 +248,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #6",
@@ -292,13 +292,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #7",
@@ -334,14 +334,14 @@
            "value": "Black Gloves"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #8",
@@ -377,14 +377,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #9",
@@ -420,14 +420,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #10",
@@ -463,14 +463,14 @@
            "value": "Glasses"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #11",
@@ -507,13 +507,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #12",
@@ -550,13 +550,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #13",
@@ -592,14 +592,14 @@
            "value": "Glasses"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #14",
@@ -624,7 +624,7 @@
         },
         {
            "trait_type": "Holds",
-           "value": "Icre cream scoop"
+           "value": "Ice cream scoop"
         },
         {
            "trait_type": "Gender",
@@ -635,14 +635,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #15",
@@ -678,14 +678,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #16",
@@ -718,17 +718,17 @@
         },
         {
            "trait_type": "Extra",
-           "value": "Nonen"
+           "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #17",
@@ -764,14 +764,14 @@
            "value": "White Gloves"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #18",
@@ -807,14 +807,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #19",
@@ -850,14 +850,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #20",
@@ -893,14 +893,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #21",
@@ -936,14 +936,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #22",
@@ -980,13 +980,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #23",
@@ -1022,14 +1022,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #24",
@@ -1065,14 +1065,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #25",
@@ -1109,13 +1109,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #26",
@@ -1152,13 +1152,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #27",
@@ -1195,13 +1195,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #28",
@@ -1237,14 +1237,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #29",
@@ -1280,14 +1280,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #30",
@@ -1324,13 +1324,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #31",
@@ -1367,13 +1367,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #32",
@@ -1409,14 +1409,14 @@
            "value": "Eyes Closed"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #33",
@@ -1453,13 +1453,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #34",
@@ -1496,13 +1496,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #35",
@@ -1539,13 +1539,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #36",
@@ -1581,14 +1581,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #37",
@@ -1625,13 +1625,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #38",
@@ -1667,14 +1667,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #39",
@@ -1710,14 +1710,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #40",
@@ -1753,14 +1753,14 @@
            "value": "Glasses"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #41",
@@ -1796,14 +1796,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #42",
@@ -1839,14 +1839,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #43",
@@ -1882,14 +1882,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #44",
@@ -1925,14 +1925,14 @@
            "value": "Blue/Pink Hair"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #45",
@@ -1969,13 +1969,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #46",
@@ -2011,14 +2011,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #47",
@@ -2055,13 +2055,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #48",
@@ -2098,13 +2098,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #49",
@@ -2141,13 +2141,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #50",
@@ -2183,14 +2183,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #51",
@@ -2227,13 +2227,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #52",
@@ -2270,13 +2270,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #53",
@@ -2312,14 +2312,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #54",
@@ -2356,13 +2356,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #55",
@@ -2398,14 +2398,14 @@
            "value": "Five fingers"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #56",
@@ -2441,14 +2441,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #57",
@@ -2485,13 +2485,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #58",
@@ -2527,14 +2527,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #59",
@@ -2570,14 +2570,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #60",
@@ -2613,14 +2613,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #61",
@@ -2656,14 +2656,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #62",
@@ -2699,14 +2699,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #63",
@@ -2742,14 +2742,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #64",
@@ -2785,14 +2785,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #65",
@@ -2828,14 +2828,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #66",
@@ -2871,14 +2871,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #67",
@@ -2914,14 +2914,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #68",
@@ -2957,14 +2957,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #69",
@@ -3000,14 +3000,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #70",
@@ -3043,14 +3043,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #71",
@@ -3086,14 +3086,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #72",
@@ -3129,14 +3129,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #73",
@@ -3173,13 +3173,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #74",
@@ -3216,13 +3216,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #75",
@@ -3259,13 +3259,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #76",
@@ -3302,13 +3302,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #77",
@@ -3344,14 +3344,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #78",
@@ -3388,13 +3388,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #79",
@@ -3430,14 +3430,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #80",
@@ -3473,14 +3473,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #81",
@@ -3517,13 +3517,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #82",
@@ -3560,13 +3560,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #83",
@@ -3603,13 +3603,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #84",
@@ -3645,14 +3645,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #85",
@@ -3689,13 +3689,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #86",
@@ -3731,14 +3731,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #87",
@@ -3775,13 +3775,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #88",
@@ -3818,13 +3818,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #89",
@@ -3860,14 +3860,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #90",
@@ -3903,14 +3903,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #91",
@@ -3947,13 +3947,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #92",
@@ -3990,13 +3990,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #93",
@@ -4032,14 +4032,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #94",
@@ -4075,14 +4075,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #95",
@@ -4118,14 +4118,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #96",
@@ -4161,14 +4161,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #97",
@@ -4204,14 +4204,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #98",
@@ -4248,13 +4248,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #99",
@@ -4290,14 +4290,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #100",
@@ -4334,13 +4334,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #101",
@@ -4376,14 +4376,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #102",
@@ -4419,14 +4419,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #103",
@@ -4462,14 +4462,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #104",
@@ -4505,14 +4505,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #105",
@@ -4548,14 +4548,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #106",
@@ -4591,14 +4591,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #107",
@@ -4634,14 +4634,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #108",
@@ -4677,14 +4677,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #109",
@@ -4720,14 +4720,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #110",
@@ -4763,14 +4763,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #111",
@@ -4806,14 +4806,14 @@
            "value": "Face Mask"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #112",
@@ -4849,14 +4849,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #113",
@@ -4892,14 +4892,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #114",
@@ -4935,14 +4935,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #115",
@@ -4978,14 +4978,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #116",
@@ -5022,13 +5022,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #117",
@@ -5064,14 +5064,14 @@
            "value": "Nonen"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Nonen"
+           "trait_type": "Hat",
+           "value": "Nonen"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #118",
@@ -5107,14 +5107,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #119",
@@ -5150,14 +5150,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #120",
@@ -5193,14 +5193,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #121",
@@ -5236,14 +5236,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #122",
@@ -5279,14 +5279,14 @@
            "value": "Yellow Pants"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #123",
@@ -5323,13 +5323,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #124",
@@ -5365,14 +5365,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #125",
@@ -5409,13 +5409,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #126",
@@ -5451,14 +5451,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #127",
@@ -5495,13 +5495,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #128",
@@ -5538,13 +5538,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #129",
@@ -5581,13 +5581,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #130",
@@ -5623,14 +5623,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #131",
@@ -5667,13 +5667,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #132",
@@ -5709,14 +5709,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #133",
@@ -5752,14 +5752,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #134",
@@ -5795,14 +5795,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #135",
@@ -5838,14 +5838,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #136",
@@ -5882,13 +5882,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #137",
@@ -5925,13 +5925,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #138",
@@ -5967,14 +5967,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #139",
@@ -6010,14 +6010,14 @@
            "value": "Eyes Closed"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #140",
@@ -6053,14 +6053,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #141",
@@ -6097,13 +6097,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #142",
@@ -6139,14 +6139,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #143",
@@ -6183,13 +6183,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #144",
@@ -6225,14 +6225,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #145",
@@ -6269,13 +6269,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #146",
@@ -6311,14 +6311,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #147",
@@ -6354,14 +6354,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #148",
@@ -6397,14 +6397,14 @@
            "value": "Smile"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #149",
@@ -6441,13 +6441,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #150",
@@ -6483,14 +6483,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #151",
@@ -6527,13 +6527,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #152",
@@ -6570,13 +6570,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #153",
@@ -6613,13 +6613,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #154",
@@ -6656,13 +6656,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #155",
@@ -6698,14 +6698,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #156",
@@ -6741,14 +6741,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #157",
@@ -6785,13 +6785,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #158",
@@ -6827,14 +6827,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #159",
@@ -6871,13 +6871,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #160",
@@ -6913,14 +6913,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #161",
@@ -6956,14 +6956,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #162",
@@ -6999,14 +6999,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #163",
@@ -7042,14 +7042,14 @@
            "value": "Bindi"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #164",
@@ -7085,14 +7085,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #165",
@@ -7129,13 +7129,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #166",
@@ -7171,14 +7171,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #167",
@@ -7215,13 +7215,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #168",
@@ -7258,13 +7258,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #169",
@@ -7301,13 +7301,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #170",
@@ -7344,13 +7344,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #171",
@@ -7387,13 +7387,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #172",
@@ -7429,14 +7429,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #173",
@@ -7473,13 +7473,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #174",
@@ -7516,13 +7516,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #175",
@@ -7559,13 +7559,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #176",
@@ -7601,14 +7601,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #177",
@@ -7644,14 +7644,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #178",
@@ -7687,14 +7687,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #179",
@@ -7731,13 +7731,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #180",
@@ -7774,13 +7774,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #181",
@@ -7816,14 +7816,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #182",
@@ -7859,14 +7859,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #183",
@@ -7903,13 +7903,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #184",
@@ -7946,13 +7946,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #185",
@@ -7988,14 +7988,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #186",
@@ -8032,13 +8032,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #187",
@@ -8075,13 +8075,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #188",
@@ -8118,13 +8118,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #189",
@@ -8161,13 +8161,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #190",
@@ -8204,13 +8204,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #191",
@@ -8247,13 +8247,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #192",
@@ -8290,13 +8290,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #193",
@@ -8332,14 +8332,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #194",
@@ -8375,14 +8375,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #195",
@@ -8418,14 +8418,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #196",
@@ -8461,14 +8461,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #197",
@@ -8504,14 +8504,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #198",
@@ -8547,14 +8547,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #199",
@@ -8590,14 +8590,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #200",
@@ -8634,13 +8634,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #201",
@@ -8676,14 +8676,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #202",
@@ -8719,14 +8719,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #203",
@@ -8762,14 +8762,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #204",
@@ -8805,14 +8805,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #205",
@@ -8849,13 +8849,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #206",
@@ -8891,14 +8891,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #207",
@@ -8935,13 +8935,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #208",
@@ -8977,14 +8977,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #209",
@@ -9021,13 +9021,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #210",
@@ -9064,13 +9064,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #211",
@@ -9106,14 +9106,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #212",
@@ -9150,13 +9150,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #213",
@@ -9192,14 +9192,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #214",
@@ -9235,14 +9235,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #215",
@@ -9278,14 +9278,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #216",
@@ -9321,14 +9321,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #217",
@@ -9364,14 +9364,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #218",
@@ -9407,14 +9407,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #219",
@@ -9451,13 +9451,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #220",
@@ -9494,13 +9494,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #221",
@@ -9536,14 +9536,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #222",
@@ -9580,13 +9580,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #223",
@@ -9622,14 +9622,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #224",
@@ -9665,14 +9665,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #225",
@@ -9708,14 +9708,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #226",
@@ -9751,14 +9751,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #227",
@@ -9794,14 +9794,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #228",
@@ -9838,13 +9838,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #229",
@@ -9880,14 +9880,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #230",
@@ -9923,14 +9923,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #231",
@@ -9967,13 +9967,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #232",
@@ -10009,14 +10009,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #233",
@@ -10052,14 +10052,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #234",
@@ -10095,14 +10095,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #235",
@@ -10139,13 +10139,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #236",
@@ -10181,14 +10181,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #237",
@@ -10225,13 +10225,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #238",
@@ -10268,13 +10268,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #239",
@@ -10310,14 +10310,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #240",
@@ -10354,13 +10354,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #241",
@@ -10397,13 +10397,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #242",
@@ -10440,13 +10440,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #243",
@@ -10483,13 +10483,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #244",
@@ -10526,13 +10526,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #245",
@@ -10569,13 +10569,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #246",
@@ -10611,14 +10611,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #247",
@@ -10654,14 +10654,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #248",
@@ -10697,14 +10697,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #249",
@@ -10740,14 +10740,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #250",
@@ -10783,14 +10783,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #251",
@@ -10826,14 +10826,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #252",
@@ -10869,14 +10869,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #253",
@@ -10912,14 +10912,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #254",
@@ -10955,14 +10955,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #255",
@@ -10998,14 +10998,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #256",
@@ -11041,14 +11041,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #257",
@@ -11084,14 +11084,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #258",
@@ -11127,14 +11127,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #259",
@@ -11170,14 +11170,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #260",
@@ -11213,14 +11213,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #261",
@@ -11256,14 +11256,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #262",
@@ -11299,14 +11299,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #263",
@@ -11342,14 +11342,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #264",
@@ -11385,14 +11385,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #265",
@@ -11428,14 +11428,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #266",
@@ -11471,14 +11471,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #267",
@@ -11514,14 +11514,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #268",
@@ -11557,14 +11557,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #269",
@@ -11600,14 +11600,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #270",
@@ -11643,14 +11643,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #271",
@@ -11686,14 +11686,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #272",
@@ -11729,14 +11729,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #273",
@@ -11773,13 +11773,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #274",
@@ -11815,14 +11815,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #275",
@@ -11859,13 +11859,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #276",
@@ -11902,13 +11902,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #277",
@@ -11944,14 +11944,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #278",
@@ -11987,14 +11987,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #279",
@@ -12030,14 +12030,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #280",
@@ -12073,14 +12073,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #281",
@@ -12116,14 +12116,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #282",
@@ -12159,14 +12159,14 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #283",
@@ -12202,14 +12202,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #284",
@@ -12245,14 +12245,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #285",
@@ -12288,14 +12288,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #286",
@@ -12332,13 +12332,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #287",
@@ -12375,13 +12375,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #288",
@@ -12418,13 +12418,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #289",
@@ -12460,14 +12460,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #290",
@@ -12504,13 +12504,13 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Hat"
+           "value": "Yes"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #291",
@@ -12546,14 +12546,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #292",
@@ -12589,14 +12589,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #293",
@@ -12632,14 +12632,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #294",
@@ -12675,14 +12675,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #295",
@@ -12718,14 +12718,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #296",
@@ -12761,14 +12761,14 @@
            "value": "None"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #297",
@@ -12804,14 +12804,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "None"
+           "trait_type": "Hat",
+           "value": "None"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #298",
@@ -12847,14 +12847,14 @@
            "value": "Jewellery"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   },
    {
      "name": "UST #299",
@@ -12890,13 +12890,13 @@
            "value": "Beard"
         },
         {
-           "trait_type": "None",
-           "value": "Hat"
+           "trait_type": "Tattoos",
+           "value": "None"
         },
         {
-           "trait_type": "Hat"
+           "trait_type": "Hat",
+           "value": "Yes"
         }
-     ],
-     "compiler": "Tattoos"
+     ]
   }
   ]
