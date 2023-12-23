@@ -159,7 +159,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "None"
+           "value": "Jewellery"
         },
         {
            "trait_type": "Tattoos",
@@ -167,7 +167,7 @@
         },
         {
            "trait_type": "Hat",
-           "value": "None"
+           "value": "Yes"
         }
      ]
   },
@@ -245,7 +245,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "None"
+           "value": "Jewellery"
         },
         {
            "trait_type": "Tattoos",
@@ -417,7 +417,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "None"
+           "value": "Glasses"
         },
         {
            "trait_type": "Tattoos",
@@ -436,7 +436,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Cafe"
+           "value": "Orange"
         },
         {
            "trait_type": "Position",
@@ -479,7 +479,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Cafe"
+           "value": "Orange"
         },
         {
            "trait_type": "Position",
@@ -503,7 +503,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "None"
+           "value": "Glasses"
         },
         {
            "trait_type": "Tattoos",
@@ -522,7 +522,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Cafe"
+           "value": "Yellow"
         },
         {
            "trait_type": "Position",
@@ -565,7 +565,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Cafe"
+           "value": "Grey"
         },
         {
            "trait_type": "Position",
@@ -675,7 +675,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "None"
+           "value": "Beard"
         },
         {
            "trait_type": "Tattoos",
@@ -788,7 +788,7 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Gold"
+           "value": "Orange"
         },
         {
            "trait_type": "Apron ",
@@ -808,7 +808,7 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "None"
+           "value": "Yes"
         },
         {
            "trait_type": "Hat",
@@ -1050,7 +1050,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Green"
+           "value": "Brown"
         },
         {
            "trait_type": "Holds",
@@ -1414,7 +1414,7 @@
         },
         {
            "trait_type": "Hat",
-           "value": "None"
+           "value": "Hat"
         }
      ]
   },
@@ -2403,7 +2403,7 @@
         },
         {
            "trait_type": "Hat",
-           "value": "None"
+           "value": "Yes"
         }
      ]
   },
@@ -2727,7 +2727,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Yellow"
+           "value": "Orange"
         },
         {
            "trait_type": "Holds",
@@ -3392,7 +3392,7 @@
         },
         {
            "trait_type": "Hat",
-           "value": "None"
+           "value": "Yes"
         }
      ]
   },
@@ -4091,7 +4091,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Pink"
+           "value": "Orange"
         },
         {
            "trait_type": "Position",
@@ -4177,7 +4177,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Yellow"
+           "value": "Orange"
         },
         {
            "trait_type": "Position",
@@ -4404,7 +4404,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Blue"
+           "value": "Green"
         },
         {
            "trait_type": "Holds",
@@ -5018,7 +5018,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "Nonen"
+           "value": "None"
         },
         {
            "trait_type": "Tattoos",
@@ -5045,7 +5045,7 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Yellow"
+           "value": "White"
         },
         {
            "trait_type": "Apron ",
@@ -5061,7 +5061,7 @@
         },
         {
            "trait_type": "Extra",
-           "value": "Nonen"
+           "value": "None"
         },
         {
            "trait_type": "Tattoos",
@@ -5862,7 +5862,7 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Black"
+           "value": "Blue"
         },
         {
            "trait_type": "Apron ",
@@ -5940,7 +5940,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Blue"
+           "value": "Green"
         },
         {
            "trait_type": "Position",
@@ -5983,7 +5983,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Red"
+           "value": "Orange"
         },
         {
            "trait_type": "Position",
@@ -6155,7 +6155,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Brown"
+           "value": "Orange"
         },
         {
            "trait_type": "Position",
@@ -6249,7 +6249,7 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Black"
+           "value": "Blue"
         },
         {
            "trait_type": "Apron ",
@@ -6550,7 +6550,7 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Black"
+           "value": "Blue"
         },
         {
            "trait_type": "Apron ",
@@ -7195,11 +7195,11 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Brown"
+           "value": "Green"
         },
         {
            "trait_type": "Apron ",
-           "value": "Green"
+           "value": "Black"
         },
         {
            "trait_type": "Holds",
@@ -7746,7 +7746,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Green"
+           "value": "Blue"
         },
         {
            "trait_type": "Position",
@@ -9134,7 +9134,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Blue"
+           "value": "Orange"
         },
         {
            "trait_type": "Holds",
@@ -9165,7 +9165,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Pink"
+           "value": "Purple"
         },
         {
            "trait_type": "Position",
@@ -9380,7 +9380,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Blue"
+           "value": "Green"
         },
         {
            "trait_type": "Position",
@@ -9552,7 +9552,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Green"
+           "value": "Grey"
         },
         {
            "trait_type": "Position",
@@ -9736,7 +9736,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Green"
+           "value": "Grey"
         },
         {
            "trait_type": "Holds",
@@ -10424,7 +10424,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Pink"
+           "value": "Purple"
         },
         {
            "trait_type": "Holds",
@@ -10463,7 +10463,7 @@
         },
         {
            "trait_type": "Jacket",
-           "value": "Green"
+           "value": "Blue"
         },
         {
            "trait_type": "Apron ",
@@ -10483,7 +10483,7 @@
         },
         {
            "trait_type": "Tattoos",
-           "value": "Yes"
+           "value": "None"
         },
         {
            "trait_type": "Hat",
@@ -10983,7 +10983,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Grey"
+           "value": "Blue"
         },
         {
            "trait_type": "Holds",
@@ -11542,7 +11542,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Black"
+           "value": "Blue"
         },
         {
            "trait_type": "Holds",
@@ -12003,7 +12003,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Red"
+           "value": "Pink"
         },
         {
            "trait_type": "Position",
@@ -12035,7 +12035,7 @@
         },
         {
            "trait_type": "Hat",
-           "value": "None"
+           "value": "Yes"
         }
      ]
   },
@@ -12347,7 +12347,7 @@
      "attributes": [
         {
            "trait_type": "Background",
-           "value": "Green"
+           "value": "Grey"
         },
         {
            "trait_type": "Position",
@@ -12660,7 +12660,7 @@
         },
         {
            "trait_type": "Apron ",
-           "value": "Black"
+           "value": "Blue"
         },
         {
            "trait_type": "Holds",
